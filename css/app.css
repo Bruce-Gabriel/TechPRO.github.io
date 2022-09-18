@@ -401,6 +401,7 @@ img {
     cursor: pointer;
 }
 
+/* Footer */
 .copyright {
     font-family: var(--secondFont);
     padding: 2rem 0;
